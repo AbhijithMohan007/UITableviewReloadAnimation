@@ -5,4 +5,4 @@ let sampleTable = UITableView()
 
 //We can use reloadWithAnimation() instead of default .reloadData()
 sampleTable.reloadWithAnimation()
-![Alt text](/video-to-gif-converter-2.gif) / ![](/video-to-gif-converter-2.gif)
+![Alt text](/video-to-gif-converter-2.gif)
